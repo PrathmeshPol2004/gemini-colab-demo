@@ -14,22 +14,15 @@ You can read PDF files and work with data using **Pandas**.
 
 ## Files
 
-gemini-colab-demo/
-
+gemini-colab-demo/ <br>
 │
-├── notebooks/
-
-│   └── Gemini\_PDF\_Demo.ipynb   # Main Colab notebook
-
-├── data/
-
-│   └── sample.pdf              # Example PDF
-
-├── requirements.txt            # Python packages
-
-├── README.md                   # This file
-
-└── .gitignore                  # Ignore secret files
+├── notebooks/ <br>
+│   └── Gemini\_PDF\_Demo.ipynb   # Main Colab notebook <br>
+├── data/ <br>
+│   └── sample.pdf              # Example PDF <br>
+├── requirements.txt            # Python packages <br>
+├── README.md                   # This file <br>
+└── .gitignore                  # Ignore secret files <br>
 
 
 ## How to use
